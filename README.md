@@ -1,2 +1,2 @@
-# .github
+# FoodiesCorner
 Test
